@@ -1,8 +1,3 @@
-body {
-  font: 10px sans-serif;
-  shape-rendering: crispEdges;
-}
-
 .day {
   fill: #fff;
   stroke: #ccc;
